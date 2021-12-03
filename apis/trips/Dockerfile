@@ -1,5 +1,5 @@
 FROM golang:1.16.8 AS gobuild
-
+# Test build
 WORKDIR /go/src/github.com/Azure-Samples/openhack-devops-team/apis/trips
 
 COPY . .
