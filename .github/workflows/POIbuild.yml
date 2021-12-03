@@ -5,12 +5,12 @@ on:
     branches: [ master1 ]
     paths: 
     - apis/poi**
-    - .github/workflows/poi.yml
+    - .github/workflows/POIbuild.yml
   pull_request:
     branches: [ master1 ]
     paths: 
     - apis/poi**
-    - .github/workflows/poi.yml
+    - .github/workflows/POIbuild.yml
 
 jobs:
   build_and_test:
