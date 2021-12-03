@@ -1,5 +1,5 @@
 # First stage to build the application
-# Test build
+
 FROM maven:3.6.3-openjdk-11-slim AS build-env
 ADD ./pom.xml pom.xml
 ADD ./src src/
