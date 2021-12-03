@@ -33,4 +33,4 @@ jobs:
         distribution: 'adopt'
         
     - name: Unit Tests
-      run: mvn Test
+      run: mvn test
