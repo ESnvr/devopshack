@@ -32,5 +32,5 @@ jobs:
       run: go get
       
     - name: Test
-      run: go test ./tripsgo
+      run: go test ./trips/tripsgo
 
