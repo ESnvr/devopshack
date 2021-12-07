@@ -1,4 +1,4 @@
 /apis/poi/ @ESnvr
-/trips/ @Esnvr
-/user-java/ @ESnvr
-/userprofile/ @ESnvr
+/apis/trips/ @Esnvr
+/apis/user-java/ @ESnvr
+/apis/userprofile/ @ESnvr
